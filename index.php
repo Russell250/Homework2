@@ -1,5 +1,5 @@
 <?php require_once("header.php"); ?>
-<h1> Hello World </h1>
+<h1> Hello Everyone in the World </h1>
 <form action="handlepost.php" method="post">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
